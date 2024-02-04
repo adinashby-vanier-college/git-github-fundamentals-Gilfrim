@@ -1,1 +1,5 @@
 This is the modification I made because I wished to keep all of the material.
+
+I learned how to exclude a document from being added or committed locally in the current repository. 
+
+I also created the SSH key for myself to not bother with remembering the login and password.
